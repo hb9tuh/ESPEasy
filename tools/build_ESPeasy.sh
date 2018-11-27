@@ -9,8 +9,8 @@
 # sudo apt install python-minimal virtualenv build-essential zip
 
 VENV=~/.venv/python2.7
-SRC=~/GitHub/letscontrolit/ESPEasy
-REPO=https://github.com/letscontrolit/ESPEasy.git
+SRC=~/GitHub/hb9tuh/ESPEasy
+REPO=https://github.com/hb9tuh/ESPEasy.git
 BRANCH=mega
 
 # If virtualenv does not exist, make it.
